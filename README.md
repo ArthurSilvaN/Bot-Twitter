@@ -1,6 +1,6 @@
 # Bot Twitter Bom Dia
 
-![Project Image](https://uploaddeimagens.com.br/imagens/pIcfpws)
+![Project Image](https://prnt.sc/10hdpvg)
 
 > Twitter @BotBomDia
 
@@ -30,7 +30,7 @@ this project was done in order to learn a little more about bots on twitter usin
 -
 
 #### Random Good Morning Bot
-![RandomGM Image](https://uploaddeimagens.com.br/imagens/pIcfpws)
+![RandomGM Image](https://prnt.sc/10hdvc5)
 -
 
 ### Technologies
