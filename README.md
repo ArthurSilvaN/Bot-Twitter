@@ -1,6 +1,6 @@
 # Bot Twitter Bom Dia
 
-![Project Image](https://ibb.co/Jt5VJQV)
+![Project Image](https://user-images.githubusercontent.com/39159676/110534218-916f3e00-80fd-11eb-8174-c3f40023f5c0.jpeg)
 
 > Twitter @BotBomDia
 
@@ -21,7 +21,7 @@ this project was done in order to learn a little more about bots on twitter usin
 ## Functions
 
 #### Reply Bot
-![Reply Image](https://ibb.co/Kx6r4Wk)
+![Reply Image](https://user-images.githubusercontent.com/39159676/110534222-9207d480-80fd-11eb-9a89-3c11070704ca.jpeg)
 -
 
 #### Search Bot
