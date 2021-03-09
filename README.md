@@ -42,14 +42,18 @@ this project was done in order to learn a little more about bots on twitter usin
 ---
 
 ## How To Use
-'''
-yarn or nmp install
-'''
 
-#### Installation
+### Install dependencies
 
+```
+yarn or npm install
+```
 
-[Back To The Top](#read-me-template)
+#### Run the project
+
+```
+yarn start ou npm start
+```
 
 ---
 
