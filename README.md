@@ -21,7 +21,7 @@ this project was done in order to learn a little more about bots on twitter usin
 ## Functions
 
 #### Reply Bot
-![Reply Image](https://user-images.githubusercontent.com/39159676/110534218-916f3e00-80fd-11eb-8174-c3f40023f5c0.jpeg)
+![Reply Image]()
 -
 
 #### Search Bot
@@ -29,7 +29,7 @@ this project was done in order to learn a little more about bots on twitter usin
 -
 
 #### Random Good Morning Bot
-![RandomGM Image](https://prnt.sc/10hdvc5)
+![RandomGM Image](https://user-images.githubusercontent.com/39159676/110534218-916f3e00-80fd-11eb-8174-c3f40023f5c0.jpeg)
 -
 
 ### Technologies
