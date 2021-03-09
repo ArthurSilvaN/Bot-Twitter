@@ -9,7 +9,7 @@
 ### Table of Contents
 
 - [Description](#description)
-- [Functions](#description)
+- [Functions](#functions)
 - [How To Use](#how-to-use)
 - [Author Info](#author-info)
 
@@ -21,11 +21,12 @@ this project was done in order to learn a little more about bots on twitter usin
 ## Functions
 
 #### Reply Bot
-![Reply Image]()
+![Reply Image1](https://user-images.githubusercontent.com/39159676/110536061-c9778080-80ff-11eb-9d40-867921a0fed7.jpeg)
+![Reply Image2](https://user-images.githubusercontent.com/39159676/110536074-cda39e00-80ff-11eb-9898-8e3e7ef5931c.jpeg)
 -
 
 #### Search Bot
-![Search Image](https://uploaddeimagens.com.br/imagens/pIcfpws)
+![Search Image](https://user-images.githubusercontent.com/39159676/110536091-d1cfbb80-80ff-11eb-83e8-3850a3c32f94.jpeg)
 -
 
 #### Random Good Morning Bot
@@ -41,6 +42,9 @@ this project was done in order to learn a little more about bots on twitter usin
 ---
 
 ## How To Use
+'''
+yarn or nmp install
+'''
 
 #### Installation
 
