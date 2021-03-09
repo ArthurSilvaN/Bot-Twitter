@@ -1,6 +1,6 @@
 # Bot Twitter Bom Dia
 
-![Project Image](https://prnt.sc/10hdpvg)
+![Project Image](https://ibb.co/Jt5VJQV)
 
 > Twitter @BotBomDia
 
@@ -14,7 +14,6 @@
 - [Author Info](#author-info)
 
 ---
-
 ## Description
 
 this project was done in order to learn a little more about bots on twitter using its api provided and mainly learn about node.js 
@@ -22,7 +21,7 @@ this project was done in order to learn a little more about bots on twitter usin
 ## Functions
 
 #### Reply Bot
-![Reply Image](https://uploaddeimagens.com.br/imagens/pIcfpws)
+![Reply Image](https://ibb.co/Kx6r4Wk)
 -
 
 #### Search Bot
